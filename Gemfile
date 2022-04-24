@@ -22,6 +22,7 @@ gem 'jb', '~> 0.8.0'
 gem "jsonb_accessor"
 gem 'json-schema'
 gem 'rswag'
+gem 'jwt'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
@@ -31,6 +32,7 @@ gem 'bootsnap'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 gem 'rack-cors'
+gem 'uuid', '~> 2.3', '>= 2.3.8'
 
 group :development, :test do
   # A library for generating fake data such as names, addresses, and phone
@@ -39,9 +41,11 @@ group :development, :test do
   gem 'factory_bot_rails'
   # Rspec
   gem 'rspec-rails', '~> 5.0.0'
+  gem 'rswag-specs'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'dotenv-rails'
+  gem 'pry', '~> 0.13.1'
 end
 
 group :development do
