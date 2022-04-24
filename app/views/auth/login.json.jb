@@ -1,0 +1,4 @@
+
+{
+    token: render('users/token', token: @token),
+}
