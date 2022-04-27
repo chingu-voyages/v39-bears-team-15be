@@ -51,8 +51,8 @@ Ngodi albert
 
 Lisa
 - Github:[@lsaffel](https://github.com/lsaffel)
-- Twitter
-- Linkedin:
+- Twitter: [@lsaffel]@LLisaVS
+- Linkedin: [linkedin](https://www.linkedin.com/in/lisa-saffel/)
 
 Erica
 - Github:[@ericadev](https://github.com/ericadev)
