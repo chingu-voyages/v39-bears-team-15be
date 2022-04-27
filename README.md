@@ -51,7 +51,7 @@ Ngodi albert
 
 Lisa
 - Github:[@lsaffel](https://github.com/lsaffel)
-- Twitter: [@lsaffel]@LLisaVS
+- Twitter: [@lsaffel](@LLisaVS)
 - Linkedin: [linkedin](https://www.linkedin.com/in/lisa-saffel/)
 
 Erica
