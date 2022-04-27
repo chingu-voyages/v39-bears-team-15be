@@ -49,7 +49,7 @@ Ngodi albert
 - Twitter: [@albertngodi](https://twitter.com/albertngodi)
 - Linkedin: [linkedin](https://www.linkedin.com/in/albertngodi)
 
-Lisa
+Lisa Saffel
 - Github:[@lsaffel](https://github.com/lsaffel)
 - Twitter: [@LLisaVS](https://twitter.com/LLisaVS)
 - Linkedin: [linkedin](https://www.linkedin.com/in/lisa-saffel/)
