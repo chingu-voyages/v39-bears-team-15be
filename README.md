@@ -11,6 +11,7 @@ It consists of the database setup and management, user management and course man
 Live url
 ---------------------------
 api_base_url : https://coursequest-api.herokuapp.com/
+documentation_url : https://documenter.getpostman.com/view/18769432/UyrEhF1E
 acces link via any http client(postman, curl, other web application utility
 
 Technologies and Tools used
